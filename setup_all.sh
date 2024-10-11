@@ -1,5 +1,5 @@
 #! /bin/bash
 
-ln -sf ~/dotfiles/zshrc ~/.zshrc
+ln -s ~/dotfiles/zshrc ~/.zshrc
 
 source ~/.zshrc
