@@ -1,1 +1,4 @@
-直接运行 ./link文件即可实现dotfiles的软连接。
+# Wan's Dotfiles
+My personal configuration files.
+
+ - `./setup_all.sh` - Will link dotfiles
